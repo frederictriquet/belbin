@@ -1,0 +1,14 @@
+[
+    {
+        "title": "first question",
+        "answers": [
+            "Who","Why","What","Where","When","How","How much","Quoi"
+        ]
+    },
+    {
+        "title": "second question",
+        "answers": [
+            "Qui","Pourquoi","Quoi","Où","Quand","Comment","Combien","Quoi"
+        ]
+    }
+]
